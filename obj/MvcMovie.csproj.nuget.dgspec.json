@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ALIEN-PC\\source\\repos\\MvcMovie\\MvcMovie.csproj": {}
+    "E:\\rubans class\\Part 5 work with a database\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ALIEN-PC\\source\\repos\\MvcMovie\\MvcMovie.csproj": {
+    "E:\\rubans class\\Part 5 work with a database\\MvcMovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALIEN-PC\\source\\repos\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "E:\\rubans class\\Part 5 work with a database\\MvcMovie\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "C:\\Users\\ALIEN-PC\\source\\repos\\MvcMovie\\MvcMovie.csproj",
+        "projectPath": "E:\\rubans class\\Part 5 work with a database\\MvcMovie\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\ALIEN-PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALIEN-PC\\source\\repos\\MvcMovie\\obj\\",
+        "outputPath": "E:\\rubans class\\Part 5 work with a database\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ALIEN-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -37,6 +37,26 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
