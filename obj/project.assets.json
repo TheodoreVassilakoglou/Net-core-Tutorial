@@ -8594,11 +8594,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\rubans class\\Part 8\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "C:\\Users\\ALIEN-PC\\source\\repos\\MvcMovie\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "E:\\rubans class\\Part 8\\MvcMovie\\MvcMovie.csproj",
+      "projectPath": "C:\\Users\\ALIEN-PC\\source\\repos\\MvcMovie\\MvcMovie.csproj",
       "packagesPath": "C:\\Users\\ALIEN-PC\\.nuget\\packages\\",
-      "outputPath": "E:\\rubans class\\Part 8\\MvcMovie\\obj\\",
+      "outputPath": "C:\\Users\\ALIEN-PC\\source\\repos\\MvcMovie\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ALIEN-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
