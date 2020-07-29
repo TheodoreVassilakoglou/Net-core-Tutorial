@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ALIEN-PC\\source\\repos\\MvcMovie\\MvcMovie.csproj": {}
+    "E:\\rubans class\\Part 7\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ALIEN-PC\\source\\repos\\MvcMovie\\MvcMovie.csproj": {
+    "E:\\rubans class\\Part 7\\MvcMovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALIEN-PC\\source\\repos\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "E:\\rubans class\\Part 7\\MvcMovie\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "C:\\Users\\ALIEN-PC\\source\\repos\\MvcMovie\\MvcMovie.csproj",
+        "projectPath": "E:\\rubans class\\Part 7\\MvcMovie\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\ALIEN-PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALIEN-PC\\source\\repos\\MvcMovie\\obj\\",
+        "outputPath": "E:\\rubans class\\Part 7\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ALIEN-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
